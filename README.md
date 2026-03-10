@@ -27,6 +27,10 @@ The dashboard tracks the following key metrics to evaluate customer sales perfor
 ## Dashboard link
 - <a href="https://github.com/Prajakta19-A/Customer_Sales_Dashboard/blob/main/Raw_data_customer_sales_dashboard.xlsx"> View Dashboard</a>
 ## Process
+- Collected and cleaned customer sales data to prepare it for analysis in Excel.
+- Created an interactive dashboard using Pivot Tables, charts, and slicers to track key KPIs such as Total Orders, Total Quantity, Total    Amount, Average Rating, and Average Days to Deliver.
+- The dashboard analyzes sales trends for the last 13 weeks, customer buying behavior, quantity purchased, and popular products.
+- It also provides insights on gender distribution, customer locations, shipping time, and overall customer satisfaction based on ratings   to support data-driven decision making.
 
 ## Dashboard Image
 <img width="1177" height="632" alt="Customer_sales_report_dashboard_screenshort" src="https://github.com/user-attachments/assets/59ad3f59-ec4c-41c3-92f2-1464e2c38774" />
