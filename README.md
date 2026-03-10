@@ -3,7 +3,7 @@
 To analyze and visualize customer sales data using interactive charts and pivot tables to track key metrics such as total sales, top customers, product performance, and sales trends, helping businesses make data-driven decisions.
 
 ## Dataset used
-- <a href="https://github.com/Prajakta19-A/Data_Analysis_Dashboard/blob/main/Vrinda_Store_Raw_Data.xlsx">Dataset</a>
+- <a >Dataset</a>
 
 ## Questions(KPIs)
 - Compare the sales and orders using singal chart
