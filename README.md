@@ -35,10 +35,19 @@ The dashboard tracks the following key metrics to evaluate customer sales perfor
 ## Dashboard Image
 <img width="1177" height="632" alt="Customer_sales_report_dashboard_screenshort" src="https://github.com/user-attachments/assets/59ad3f59-ec4c-41c3-92f2-1464e2c38774" />
 
-
-
 ## Project Insight
-
+- The business generated 2,400 total orders, selling 11,997 items with a total revenue of $649K, indicating strong overall sales            performance.
+- Sales trend analysis over the last 13 weeks shows fluctuations with peak sales around week 6 and week 10, suggesting seasonal or          promotional demand during those periods.
+- Mobile App and Website are the most preferred purchasing channels, with the App contributing the highest share, especially among female   customers.
+- Most customers purchase 2 items per order, indicating that small-quantity purchases are the most common buying behavior.
+- T-shirts, Jeans, Sneakers, and Tank Tops are the most popular products, contributing the largest share of total sales.
+- The gender distribution shows female customers dominate purchases, followed by male customers, while other and unknown categories         represent a small percentage.
+- Customer location analysis shows higher sales concentration in major urban regions, indicating stronger demand in populated areas.
+- The average order delivery time is 2.3 days, with most orders shipped within 1–3 days, reflecting an efficient logistics process.
+- Customer satisfaction is high with an average rating of 4.0, indicating that most customers are happy with their purchases and service.
 
 ## Conclusion
+- The dashboard provides a comprehensive view of customer sales performance by analyzing sales trends, customer demographics, buying        behavior, product popularity, delivery efficiency, and customer satisfaction.
+- The analysis reveals that female customers and mobile app purchases drive most sales, while fast shipping and high ratings indicate       positive customer experience.
+- These insights can help businesses improve marketing strategies, inventory planning, and customer engagement to increase future sales     and customer satisfaction.
 
