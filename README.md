@@ -4,16 +4,16 @@ To analyze and visualize customer sales data using interactive charts and pivot 
 
 ## Dataset used
 - <a href="https://github.com/Prajakta19-A/Customer_Sales_Dashboard/blob/main/Raw_data_customer_sales_dashboard.xlsx">Dataset</a>
+## Key Performance Indicators (KPIs)
 
-## Questions(KPIs)
-- Compare the sales and orders using singal chart
-- Which month got the higher sales and orders?
-- Who purchased more men or women in 2026?
-- What are different order status in 2026?
-- List top 10 states contributing to the sales?
-- Relation between age and gender based on number of orders
-- Which channel is contributing to maximum sales?
-- Highest selling category?
+The dashboard tracks the following key metrics to evaluate customer sales performance:
+
+- **Total Orders** – Total number of orders placed by customers.
+- **Total Quantity** – Total quantity of products sold.
+- **Total Amount** – Overall revenue generated from sales.
+- **Average Rating** – Average customer rating for purchased products.
+- **Average Days to Deliver** – Average number of days taken to deliver orders to customers.
+
 ## Dashboard link
 - <a href="https://github.com/Prajakta19-A/Data_Analysis_Dashboard/blob/main/Vrinda_sales_report_dashboard_screenshort.png"> View Dashboard</a>
 ## Process
